@@ -91,7 +91,7 @@
           <x:Boolean x:Key="IsExpanded">True</x:Boolean>
         </scg:Dictionary>
       </sap:WorkflowViewStateService.ViewState>
-      <ui:BrowserScope Browser="{x:Null}" SearchScope="{x:Null}" TimeoutMS="{x:Null}" UiBrowser="{x:Null}" BrowserType="Edge" DisplayName="Attach Browser 'msedge.exe ACME'" sap:VirtualizedContainerService.HintSize="449.6,849.6" sap2010:WorkflowViewState.IdRef="BrowserScope_3" InformativeScreenshot="3d3d46b38768399996067c7323a1d1b8" Selector="&lt;html app='msedge.exe' url='https://acme-test.uipath.com/*' /&gt;">
+      <ui:BrowserScope Browser="{x:Null}" SearchScope="{x:Null}" TimeoutMS="{x:Null}" UiBrowser="{x:Null}" BrowserType="Edge" DisplayName="Attach Browser " sap:VirtualizedContainerService.HintSize="449.6,849.6" sap2010:WorkflowViewState.IdRef="BrowserScope_3" InformativeScreenshot="3d3d46b38768399996067c7323a1d1b8" Selector="&lt;html app='msedge.exe' url='https://acme-test.uipath.com/*' /&gt;">
         <ui:BrowserScope.Body>
           <ActivityAction x:TypeArguments="x:Object">
             <ActivityAction.Argument>
